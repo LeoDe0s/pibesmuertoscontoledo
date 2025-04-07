@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.exe
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.deps.json
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.runtimeconfig.json
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.dll
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\bin\Debug\net5.0\Carrera de autos.pdb
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.dll
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\refint\Carrera de autos.dll
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.pdb
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\Carrera de autos.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Carrera de autos\Carrera de autos\obj\Debug\net5.0\ref\Carrera de autos.dll

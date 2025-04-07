@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Carrera de autos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462F8A8E-C639-4FE4-BA0E-112495606E5B}|Carrera de autos\\Carrera de autos.csproj|c:\\users\\usuario\\source\\repos\\carrera de autos\\carrera de autos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462F8A8E-C639-4FE4-BA0E-112495606E5B}|Carrera de autos\\Carrera de autos.csproj|solutionrelative:carrera de autos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Carrera de autos\\Carrera de autos\\Program.cs",
+              "RelativeDocumentMoniker": "Carrera de autos\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Carrera de autos\\Carrera de autos\\Program.cs",
+              "RelativeToolTip": "Carrera de autos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:36:39.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Carrera de autos/1.0.0": {
+        "runtime": {
+          "Carrera de autos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Carrera de autos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

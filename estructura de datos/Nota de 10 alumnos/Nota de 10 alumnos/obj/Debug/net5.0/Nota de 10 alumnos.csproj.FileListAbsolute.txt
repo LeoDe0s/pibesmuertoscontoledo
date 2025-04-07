@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.exe
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.deps.json
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.runtimeconfig.json
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.dll
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\bin\Debug\net5.0\Nota de 10 alumnos.pdb
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.dll
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\refint\Nota de 10 alumnos.dll
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.pdb
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\Nota de 10 alumnos.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Nota de 10 alumnos\Nota de 10 alumnos\obj\Debug\net5.0\ref\Nota de 10 alumnos.dll
