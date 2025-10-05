@@ -1,2 +1,2 @@
-# pibesmuertoscontoledo
-este es un repositorio el cual guardará el trabajo de Toledo, enseñando la materia PP2 de Furo, Dioz, Sabritas, Pelula
+# ProyectoBooktrack
+este es un repositorio el cual guardará el trabajo final para la materia PP2 de Podesta, Orue, Sola y Ojeda
