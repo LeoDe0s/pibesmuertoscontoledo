@@ -1,0 +1,72 @@
+Trabajo por:
+	Alejandro (Ale)
+	Lucas (Pelula)
+	Sabrina (Mandarina)
+	Leonardo (Dioz)
+
+Gestión de Biblioteca (SQL y Python/Java)
+
+Nombre:     BookTrack – Para llevar un seguimiento preciso de todos tus libros.
+
+El Sistema de gestión de biblioteca desarrollado con SQL y Python/Java esta deseñado para facilitar el control y la gestión de los recursos de la biblioteca, automatizando tareas claves como el registro de libros, la administración de usuarios y el seguimiento de prestamos y devoluciones.
+Este sistema se compone de dos elementos principales:
+	Base de Datos SQL y Aplicación en Python/Java.
+Los componentes claves del sistemas serian:
+	Gestión de libros: la base de datos almacena información como los títulos, autores, editoriales y categorías.
+	Gestión de usuarios: se registrarían a los lectores con sus datos como nombre, dirección, numero de identificación y contactos.
+	Prestamos y Devoluciones: El sistema permitiría registrar cuando un usuario toma prestado un libro, calcula las fechas de devolución y controla los libros que no se devolvieron en su tiempo definido.
+	Búsqueda y Filtro: Los usuarios podrían buscar los libros por titulo, autor o categoría utilizando las consultas SQL.
+	Interfaz de Usuario: Podría incluir una interfaz gráfica para hacerlo más bonito, fácil e intuitivo.
+Esta gestión tiene sus ventajas como:
+	Automatización: reduce el trabajo manual del personal bibliotecario.
+	Precisión: Minimiza errores humanos en los registros.
+También, a futuro, se le podría agregar nuevas funciones como envíos de recordatorios por correo o integración con códigos QR.
+
+Tener una cuenta no es obligatorio, pero si se crea una, el cliente tendrá varios beneficios:
+	Poder llevar un libro por más tiempo.
+	Reservar un libro con antelación.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diseñar las clases para cumplir con la siguiente especificación:
+
+Administración de compras y ventas en una Librería:
+Realizar una aplicación para manejar las *compras* y *ventas* de una *librería*. Se debe poder llevar *registro* de los *artículos* disponibles en *stock*. Asimismo modelar las *compras* a los *proveedores* y las *ventas* a los *clientes*.
+Modelar los artículos especificando un identificador del catalogo general y sus características: Marca, Modelo, Cantidad, Compras, Ventas.
+Se debe registrar las compras de artículos a los proveedores. Especificando: Marca, Modelo, Cantidad, Fecha compra, Fecha Recepción.
+Se debe registrar las ventas al publico. Especificando: Artículos, Cantidad, Precio, Cliente, Fecha.
+Modelar también los clientes y los proveedores, como así también el usuario que registra las operaciones
+
+
+
+
+
+
+
+
+
